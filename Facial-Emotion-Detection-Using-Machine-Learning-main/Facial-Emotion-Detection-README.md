@@ -70,6 +70,7 @@ python testdata.py
 
 ## 🧑‍💻 Author
 **J. Dishanth**  
-💼 [GitHub](https://github.com/dishanthj) | 🔗 [LinkedIn]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/dishanth-j-a951042a6))
+💼 [GitHub](https://github.com/dishanthj) | 🔗 [LinkedIn](https://www.linkedin.com/in/dishanth-j-a951042a6))
+
 
 
