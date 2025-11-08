@@ -70,21 +70,6 @@ python testdata.py
 
 ## 🧑‍💻 Author
 **J. Dishanth**  
-💼 [GitHub](https://github.com/YOURUSERNAME) | 🔗 [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+💼 [GitHub](https://github.com/dishanthj) | 🔗 [LinkedIn]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/dishanth-j-a951042a6))
 
----
 
-## 🌟 Star this Repo!
-If you find this useful, please ⭐ it on GitHub — it helps others find it!
-
-![Stars](https://img.shields.io/github/stars/YOURUSERNAME/Facial-Emotion-Detection?style=social)
-![Forks](https://img.shields.io/github/forks/YOURUSERNAME/Facial-Emotion-Detection?style=social)
-![Issues](https://img.shields.io/github/issues/YOURUSERNAME/Facial-Emotion-Detection)
-![License](https://img.shields.io/github/license/YOURUSERNAME/Facial-Emotion-Detection)
-
----
-
-## 📝 Notes
-- Replace `YOURUSERNAME` with your GitHub username in badges and links.
-- If your training produces a different model filename, update `test.py`/`testdata.py` accordingly.
-- Add a short GIF or demo video for a stronger portfolio presentation.
